@@ -1,0 +1,8 @@
+Voice Studio Qwen 0.1.1. Models and protocol unchanged from 0.1.0.
+Official models: https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
+https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base
+Official code: https://github.com/QwenLM/Qwen3-TTS
+Qwen model cards specify Apache-2.0; dependencies have their own licenses.
+Pinned revisions are in voice_studio/common.py.
+No model weights, API keys, private voices or user DATA are shipped here.
+No live Windows, Docker build or GPU inference certification.

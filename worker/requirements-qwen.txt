@@ -1,0 +1,9 @@
+qwen-tts==0.1.1
+torch==2.6.0
+torchaudio==2.6.0
+transformers==4.57.3
+accelerate==1.12.0
+numpy==1.26.4
+soundfile==0.13.1
+librosa==0.11.0
+runpod==1.7.13
